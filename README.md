@@ -15,4 +15,4 @@ This repository contains a simple JavaScript modal window that you can easily in
 1. Clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/javascript-modal-window.git
+https://github.com/urvashi1210/MODAL-WINDOW.git
